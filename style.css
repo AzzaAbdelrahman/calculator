@@ -19,8 +19,9 @@ body{
 
 }
 
-#title{
-    color: white;
+.title{
+    color:rgb(204, 135, 16);
+ 
 }
 
 #display{
